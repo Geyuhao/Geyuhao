@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - 🎓 Senior at [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/) and I will be an incoming student for the MSCS program at [UIUC](https://illinois.edu/).
 - 💻 Currently working at [NFTGo](https://nftgo.io)
 - 🧠 My interests include Blockchain, AR/VR/XR, and ML.
-- 🚀 Check out my [homepage](https://geyuhao33.web.illinois.edu/home/index) for infomation about me.
+- 🚀 Check out my [homepage](https://geyuhao33.web.illinois.edu/home/index) for more infomation about me.
+
+---
+*"The journey of discovery never truly ends."*
