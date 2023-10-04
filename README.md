@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm Yuhao Ge <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- 🎓 Senior at [ZJU](https://www.zju.edu.cn) & [UIUC](https://illinois.edu/) and I will be an incoming student for the MSCS program at [UIUC](https://illinois.edu/).
-- 💻 Currently working at [NFTGo](https://nftgo.io)
-- 🧠 My interests include Blockchain, AR/VR/XR, and ML.
+- 🎓 Master student in CS at University of Illinois at Urbana-Champaign [UIUC](https://illinois.edu/). I work with my advisor Charith Mendis, in the area of machine learning and systems.
+- 💻 Once intern at [TikTok](https://www.tiktok.com) and [NFTGo](https://nftgo.io)
+- 🧠 My interests include Blockchain, AR/VR/XR, and ML & Systems.
 - 🚀 Check out my [homepage](https://geyuhao33.web.illinois.edu/home/index) for more infomation about me.
 
 ---
