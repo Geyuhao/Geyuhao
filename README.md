@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm Yuhao Ge <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- 🎓 Master student in CS at the University of Illinois at Urbana-Champaign [UIUC](https://illinois.edu/). I work with my advisor [Charith Mendis](https://charithmendis.com), in the area of machine learning and systems.
-- ⚡ I will be joining XXX this summer as Software Engineer Intern.
+- 🎓 Master student in CS at the University of Illinois at Urbana-Champaign [UIUC](https://illinois.edu/). I work with my advisor [Charith Mendis](https://charithmendis.com), in the area of Deap Learning Compilers and Machine Learning Systems.
+- ⚡ I will be joining Amazon, AWS, Annapurna Lab, this summer as Software Dev Engineer Intern.
 - 💻 Once intern at [TikTok](https://www.tiktok.com) and [NFTGo](https://nftgo.io)
 - 🧠 My interests include ML & Systems, GPUs and FPGAs, High Performance Computing, AR/VR/XR.
-- 🚀 Check out my [homepage](https://geyuhao33.web.illinois.edu/home/index) for more infomation about me.
+- 🚀 Check out my [homepage](https://geyuhao33.web.illinois.edu) for more infomation about me.
 
 ---
 *"The journey of discovery never truly ends."*
