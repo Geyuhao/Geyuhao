@@ -1,24 +1,8 @@
-<!--
-**Geyuhao/Geyuhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there, I'm Yuhao Ge 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hey there, I'm Yuhao Ge <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- ⚡ I am working at Google, as Software Engineer.
-- 🎓 I graduated from master of CS at the University of Illinois at Urbana-Champaign [UIUC](https://illinois.edu/). I work with my advisor [Charith Mendis](https://charithmendis.com), in the area of Deap Learning Compilers and Machine Learning Systems.
-- 💻 Once worked at [AWS Annapurna Lab](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), [TikTok](https://www.tiktok.com) and [NFTGo](https://nftgo.io)
-- 🧠 My interests include LLM training/serving, ML Compilers.
-- 🚀 Check out my [homepage](https://geyuhao.github.io) for more infomation about me.
-
----
-*"The journey of discovery never truly ends."*
+- ⚡ I'm an **inference performance engineer at Google**, working across frameworks, compilers, and kernels for LLM serving.
+- 🔧 I built **[vLLM-TorchTPU](https://github.com/vllm-project/vllm-torchtpu)** from the ground up and co-develop **[TorchTPU](https://github.com/google-pytorch/torch_tpu)**.
+- 💻 Previously, I was a founding engineer of **[NKI](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/nki/index.html)**, a kernel language and compiler for AWS Trainium, at **AWS Annapurna Labs**.
+- 🎓 M.S. in Computer Science and B.S. in Computer Engineering from **UIUC**.
+- 🥁 Outside work, I play drums.
+- 🔗 [Homepage](https://geyuhao.github.io) · [LinkedIn](https://www.linkedin.com/in/yuhao-ge-a59b88221/) · [Google Scholar](https://scholar.google.com/citations?user=MEVq3-sAAAAJ)
